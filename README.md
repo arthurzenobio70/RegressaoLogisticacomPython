@@ -1,0 +1,2 @@
+# RegressaoLogisticacomPython
+Prever se o usuário de algum site hipotético clicou ou não em algum anúncio. Primeiramente realizaremos uma análise exploratória de dados e, assim, compreenderemos o melhor modelo pra essa previsão. Predict if an random user of a hypothetical site clicked on an especific advertisement. Initially we'll appy an EDA and based on that analysis we'll understand the best model for realize the prediction.
